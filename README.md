@@ -83,7 +83,7 @@ Example Structure:
 
 Note: You can notice explicit \n characters in the sshPrivateKey.
 
-2. `argo-admin-secret` - must contain ArgoCD admin password in Plain Text. The secret is expected to be defined in `us-east-1` and replicated to `us-east-1` and `us-west-2` regions.
+2. `argo-admin-secret` - must contain ArgoCD admin password in Plain Text. The secret is expected to be defined in `us-east-1` and replicated to `us-east-2` and `us-west-2` regions.
 
 For ``Dynatrace One Agent`
 
